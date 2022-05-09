@@ -1,4 +1,4 @@
- Web Scrapte F0r NYC_Apartments
+**Web Scrapter For NYC_Apartments**
 
 Built a web scraper using Selenium and Python to collect information about NYC apartments that follow the user’s requirements. 
 
